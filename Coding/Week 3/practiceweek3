@@ -1,0 +1,111 @@
+# x = len("Hi there!")
+# y=len("")
+# print(f"{x}\n{y}")
+
+# data = 'Hi there'
+# for index in range(len(data)):
+#     print(index, data[index])
+
+# filelist = ["joe.txt", "jim.exe", "jack.txt"]
+# for filename in filelist:
+#     if ".txt" in filename:
+#         print(filename)
+
+#check weather a number is odd or even
+
+# sum_odd = 0
+# sum_even = 0 
+
+# print("Welcome to odd and even")
+# print("Here your numbers will be calculated as odd and even sums")
+# print("Once you have inputted all numbers, press enter to display results and exit")
+
+# while True:
+#     user_input = input("Enter any real number: ")
+
+#     if user_input == "" and sum_even == 0 and sum_odd == 0:
+#         print("Please try again")
+#         continue
+    
+#     if user_input == "":
+#         break
+#     try: 
+#         number = int(user_input) 
+#     except ValueError:
+#         print("Enter a valid whole number")
+#         continue
+
+#     if number % 2 == 0:
+#         sum_even += number
+#     else:
+#         sum_odd += number
+    
+# print(f"Sum of even numbers is: {sum_even}")
+# print(f"Sum of of odd numbers is: {sum_odd}")
+
+
+
+# user_input = input("Enter any sentence: ")
+# word_list = user_input.split()
+# print("There are ",len(word_list), "words")
+
+# sum = 0
+
+# for word in word_list:
+#     sum += len(word)
+# print("The average word length is: ", sum/len(word_list))
+
+# names = ("jon", "mike", "elliot", "bill")
+# for name in names:
+#     print(name.split())
+
+# for letter in "hello":
+#     print(letter)
+
+# for i in range(5):
+#     print(i)
+
+# import math
+
+# # num = int(input("Enter a number: "))
+
+# def is_prime(num):
+#     if num <= 1:
+#         return False
+#     for i in range(2, int(math.sqrt(num) + 1)):
+#         if num % i == 0:
+#             return False
+#     return True
+
+# while True: 
+#     user_input = input("Enter any number, or press q to quit: ")
+#     if user_input.lower() == 'q':
+#         break 
+#     num = int(user_input)
+#     if is_prime(num):
+#         print(num, "is a prime number")
+#     else:
+#         print(num, "is not a prime number")
+
+# if is_prime(num):
+#     print(num, "is a prime number")
+# else:
+#     print(num, "is not a prime number")# if is_prime(num):
+#     print(num, "is a prime number")
+# else:
+#     print(num, "is not a prime number")
+
+print(4 in "1,2,3,4,5")
+
+
+
+
+
+
+
+
+    
+
+
+
+

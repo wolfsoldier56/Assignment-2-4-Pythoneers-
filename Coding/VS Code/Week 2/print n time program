@@ -1,0 +1,19 @@
+while True:
+
+    x = int(input("Please enter an integer:"))
+    if x<50:
+        for eachPass in range(4):
+            print("it is alive", end=" ")
+    print()
+
+    if x>50:
+          for eachPass in range(4):
+              print("please stop, its hurts", end=" ")
+    print()
+
+    if x==0:
+        print("You have succedeed.....")
+        print("exiting....")
+        print("i am free now")
+        print("thank you...")
+        break

@@ -1,0 +1,12 @@
+#example 1 find max and min
+first=int(input("enter the first number "))
+second=int(input("enter the second number "))
+if first>second:
+    maximum=second
+    minimum=first
+else:
+    maximum=second
+    minimum=first
+print("maximum",maximum)
+print("minimum",minimum)
+
