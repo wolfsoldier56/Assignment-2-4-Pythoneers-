@@ -1,0 +1,15 @@
+Top 5 largest deviations:
+  STATION_NAME Deviation
+DARWIN-AIRPORT    1.03°C
+   HORN-ISLAND    1.26°C
+    WEIPA-AERO    1.71°C
+     KALUMBURU    1.75°C
+BROOME-AIRPORT    1.87°C
+
+Top 5 smallest deviations:
+         STATION_NAME Deviation
+      WAGGA-WAGGA-AMO    6.95°C
+  RUTHERGLEN-RESEARCH    6.83°C
+  WYALONG-POST-OFFICE    6.77°C
+               MARREE    6.67°C
+DALWALLINU-COMPARISON    6.64°C

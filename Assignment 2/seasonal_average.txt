@@ -1,0 +1,6 @@
+Seasonal Average Temperatures: 
+
+The average temperature over winter is: 21.07°C
+The average temperature over summer is: 32.10°C
+The average temperature over autumn is: 27.32°C
+The average temperature over spring is: 27.43°C

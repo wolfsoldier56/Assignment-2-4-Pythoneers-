@@ -1,0 +1,15 @@
+5 largest range/s:
+          STATION_NAME Temp Range
+       WAGGA-WAGGA-AMO    21.07°C
+                MARREE    20.67°C
+   WYALONG-POST-OFFICE    20.66°C
+TIBOOBURRA-POST-OFFICE    20.59°C
+    OODNADATTA-AIRPORT    20.57°C
+
+5 smallest range/s:
+  STATION_NAME Temp Range
+DARWIN-AIRPORT     1.94°C
+   HORN-ISLAND     3.02°C
+    WEIPA-AERO     3.85°C
+     KALUMBURU     4.26°C
+BROOME-AIRPORT     4.39°C
